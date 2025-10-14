@@ -33,9 +33,8 @@ Algorithm Researcher
 Beidahuang Information Co., Ltd. National Key Laboratory for Smart Farm Technology and Systems, Harbin
 
 2023.08–2023.12
-
 Assistant Professor of Internet of Things
-Yang-En University
+Yang-En University 
 School of Engineering and Technology, Quanzhou
 
 Social Roles
