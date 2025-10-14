@@ -12,23 +12,28 @@ recognition and multi-model coupling platform. Mentored by Russian Academy of Na
 
 Education
 ======
-2020.09-2023.06\r
+2020.09-2023.06
+
 M.S., Transport Engineering, Fujian University of Technology, Fujian
 
 2014.09-2018.06
+
 B.E., Internet of Things Engineering, Harbin University of Commerce, Harbin
 
 Work Experience
 ======
 2024.08–Present
+
 Large Model Development Engineer 
 Fanlian Xin'an Information Technology Co., Ltd. Big Data Department, Changsha
 
 2024.03–2024.08
+
 Algorithm Researcher 
 Beidahuang Information Co., Ltd. National Key Laboratory for Smart Farm Technology and Systems, Harbin
 
 2023.08–2023.12
+
 Assistant Professor of Internet of Things
 Yang-En University
 School of Engineering and Technology, Quanzhou
