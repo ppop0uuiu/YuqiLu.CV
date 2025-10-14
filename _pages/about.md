@@ -13,7 +13,7 @@ recognition and multi-model coupling platform. Mentored by Russian Academy of Na
 Education
 ======
 
-M.S., Transport Engineering, Fujian University of Technology, Fujian, 2020.09-2023.06
+M.S., Transport Engineering, Fujian University of Technology, Fujian, 2020.09-2023.06\r
 
 B.E., Internet of Things Engineering, Harbin University of Commerce, Harbin, 2014.09-2018.06
 
