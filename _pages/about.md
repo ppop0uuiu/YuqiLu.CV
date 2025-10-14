@@ -12,27 +12,26 @@ recognition and multi-model coupling platform. Mentored by Russian Academy of Na
 
 Education
 ======
+2020.09-2023.06
+M.S., Transport Engineering, Fujian University of Technology, Fujian
 
-M.S., Transport Engineering, Fujian University of Technology, Fujian, 2020.09-2023.06\r
-
-B.E., Internet of Things Engineering, Harbin University of Commerce, Harbin, 2014.09-2018.06
+2014.09-2018.06
+B.E., Internet of Things Engineering, Harbin University of Commerce, Harbin
 
 Work Experience
 ======
-Large Model Development Engineer 2024.08–Present
+2024.08–Present
+Large Model Development Engineer 
 Fanlian Xin'an Information Technology Co., Ltd. Big Data Department, Changsha
-Responsibilities: Researching code completion Large Language Models (LLMs) and embedding models;
 
-Fine-tuning Large Language Models for specific applications. Algorithm Researcher 2024.03–2024.08
+2024.03–2024.08
+Algorithm Researcher 
 Beidahuang Information Co., Ltd. National Key Laboratory for Smart Farm Technology and Systems, Harbin
 
-Responsibilities: Build a crop model prediction platform to forecast crop growth conditions based on
-geographic location, crop type, weather data, and other factors. Assistant Professor of Internet of Things 2023.08–2023.12
-
-
+2023.08–2023.12
+Assistant Professor of Internet of Things
 Yang-En University
 School of Engineering and Technology, Quanzhou
-Responsibilities: Teaching courses such as C Programming and Fundamentals of Computing.
 
 Social Roles
 ------
