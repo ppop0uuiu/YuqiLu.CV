@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Yuqi Lu specializes in large language models (LLMs) and image recognition. Actively involved in National Natural Science Foundation projects, university-industry collaborations, and independent
-research projects. Former National College Innovation and Entrepreneurship Project leader with multiple SCI and core journal publications. Reviewer for journals like Neural Computing and Applications and
-Journal of Intelligent and Fuzzy Systems. Professional experience includes roles as an LLM developer, algorithm researcher, and IoT instructor. Conducted research in LLM fine-tuning, model evaluation, image
+Yuqi Lu specializes in large language models (LLMs) and image recognition. Actively involved in National Natural Science Foundation projects, university-industry collaborations, and independent research projects. Former National College Innovation and Entrepreneurship Project leader with multiple SCI and core journal publications. Reviewer for journals like Neural Computing and Applications and Journal of Intelligent and Fuzzy Systems. Professional experience includes roles as an LLM developer, algorithm researcher, and IoT instructor. Conducted research in LLM fine-tuning, model evaluation, image
 recognition and multi-model coupling platform. Mentored by Russian Academy of Natural Sciences Foreign Member Dewang Chen, receiving several scholarships during academic tenure.
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
